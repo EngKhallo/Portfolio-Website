@@ -1,0 +1,32 @@
+->Index: number of data has been shown
+->service: have the view and update
+->experiences: have the view and update 
+->header: has the view only 
+
+
+->Project section : haven't been worked still--------done
+->projects-view : done
+->The delete statement of every function 
+->Update statement for the about and header
+->About statement's view table/section --- done
+
+
+
+Appending:
+->update: header, about, projects 
+->deete:  every section of the website
+->Re-arranging the Dashboard Index Page
+
+
+Friday works:
+->header update : done
+->prjects update: done
+
+->Delete statement: service , experiences, projects
+-> experince delete
+
+Done works:
+1.about: update and view
+2.header : update
+3.Projects: update
+5.Experience: Delete 
